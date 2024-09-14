@@ -30,9 +30,9 @@ This is a simple and responsive signup page built using HTML and CSS. It can be 
 File Structure
 
       signup-page/
-├── index.html
-├── style.css
-└── README.md
+     ├── index.html
+     ├── style.css
+     └── README.md
 
 Author
 
