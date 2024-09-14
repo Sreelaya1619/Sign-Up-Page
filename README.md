@@ -22,9 +22,11 @@ This is a simple and responsive signup page built using HTML and CSS. It can be 
    git clone https://github.com/your-username/signup-page.git
 
 2.Navigate to the project directory:
-          cd signup-page
+            
+               cd signup-page
 
 3.Open the formm.html file in your preferred browser:
+       
           open formm.html
 
 File Structure
