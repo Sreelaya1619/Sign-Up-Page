@@ -1,0 +1,60 @@
+body{
+    background-image: url(images\ \(1\)\ \(1\).jpeg);
+}
+
+label{
+    color: white;
+    padding: 10px;
+    font-size: 25px;
+}
+
+h1{
+    color: pink;
+    text-align: center;
+}
+
+.regform{
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 55px;
+    background-color: rgba(50,50,50,0.6);
+    color: white;
+}
+
+.regform .textlabel{
+    display: block;
+}
+
+.input{
+    font-size: 1.2em;
+    border: 1px solid green;
+    padding:5px 10px;
+    width: 100%;
+    border-radius: 8px;
+    box-sizing: border-box;
+    margin: 5px 0px 15px;
+}
+
+.radio{
+    accent-color: blue;
+    transform: scale(1.2);
+}
+
+.btn{
+    text-align: center;
+    padding: 15px 20px;
+}
+ 
+button{
+    font-size: large;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 8px 5px;
+    box-shadow: 3px;
+    border-radius: 8px 5px;
+}
+
+input:hover{
+    background-color:lightcyan;
+}
