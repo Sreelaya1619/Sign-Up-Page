@@ -27,7 +27,7 @@ This is a simple and responsive signup page built using HTML and CSS. It can be 
 
 3.Open the formm.html file in your preferred browser:
        
-          open formm.html
+               open formm.html
 
 File Structure
 
